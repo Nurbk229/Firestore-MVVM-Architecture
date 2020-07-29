@@ -1,0 +1,2 @@
+rootProject.name='Firestore MVVM Architecture'
+include ':app'

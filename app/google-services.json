@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "117170703257",
+    "firebase_url": "https://firestore-mvvm-architecture.firebaseio.com",
+    "project_id": "firestore-mvvm-architecture",
+    "storage_bucket": "firestore-mvvm-architecture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117170703257:android:28224c1810c72eb67a6108",
+        "android_client_info": {
+          "package_name": "com.example.nurbk.ps.firestoremvvmarchitecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117170703257-3jrtt2bph0snsv4bk900k4mdb1kj79ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO3SVCJ7gnWO6IYSbg9wAjuCBTr-_v3pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117170703257-3jrtt2bph0snsv4bk900k4mdb1kj79ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
